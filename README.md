@@ -1,1 +1,1 @@
-# cs0447-processor
+# simple-mips-processor
